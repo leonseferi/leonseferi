@@ -1,75 +1,14 @@
-# Hi there! 👋
+# 💫 About Me:
+🔭 Building high-reliability backend systems  <br>🤝 Open to collaborating on fintech & distributed systems  <br>🌱 Learning cloud infrastructure and production DevOps  <br>💬 Ask me about APIs, PostgreSQL, and system design  <br>⚡ I care more about correctness than cosmetics
 
-I'm **Leon Seferi** — a CS BSc student based in London. I enjoy learning, building, and iterating on software projects. Currently focused on backend systems and experimental simulations using Python. 🚀
 
-Tagline: "Learning, building, iterating."
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonseferi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seferileon0@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 
-## About Me
-
-- Name: **Leon Seferi**
-- Role: CS BSc student — aspiring software engineer
-- Location: London 🇬🇧
-- Bio: "CS BSc student | learning, building, iterating." 
-
-I’m passionate about backend development and building experimental simulators and utilities. I enjoy turning ideas into working prototypes, iterating quickly, and applying practical CS concepts learned at university to real codebases. Currently building and maintaining Python-based projects and improving my full-stack and DevOps skills.
-
-Currently learning: backend engineering patterns, API design, containerization, and simulation tooling.
-
-## Skills & Technologies
-
-py,fastapi,flask,opencv,docker,git,github,linux,sqlite,vscode,pytorch
-
-## Top Projects
-
-## Top Projects
-
-1. [vehicle-experimental-simulator](https://github.com/leonseferi/vehicle-experimental-simulator) 🛠️
-   - Description: Experimental vehicle simulator and tools (Python)
-   - Stars: ⭐ 0
-   - Primary language: Python
-   - Forks: 0 · Open issues: 0 · License: MIT
-
-2. [campus-booking-system-backend](https://github.com/leonseferi/campus-booking-system-backend) 🏫
-   - Description: Backend services for a campus room/slot booking system (Python)
-   - Stars: ⭐ 0
-   - Primary language: Python
-   - Forks: 0 · Open issues: 0
-
-3. [leonseferi (profile repo)](https://github.com/leonseferi/leonseferi) 📄
-   - Description: Repository powering the GitHub profile README and related metadata
-   - Stars: ⭐ 0
-   - Primary language: (none specified)
-   - Forks: 0 · Open issues: 0
-
-Notes:
-- These projects reflect a focus on Python backend development and simulation tooling. Links above go to the repositories for code, README, and contribution details.
-
-## GitHub Stats
-
-## GitHub Stats
-
-- Public repositories: **3**
-- Followers: **0**
-- Following: **0**
-
-Badges:
-
-- ![GitHub Repos](https://img.shields.io/badge/Public%20Repos-3-blue)
-- ![Followers](https://img.shields.io/badge/Followers-0-lightgrey)
-- ![Following](https://img.shields.io/badge/Following-0-lightgrey)
-
-Profile stats images (dynamic):
-
-- GitHub contributions / stats:
-  - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonseferi&layout=compact)
-  - ![Profile Stats](https://github-readme-stats.vercel.app/api?username=leonseferi&show_icons=true&count_private=true)
-
-(These images update automatically — include them in your README to show live GitHub statistics.)
-
-## Recent Activity
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Recent Activity
 
 Here are some of the latest GitHub events:
@@ -85,35 +24,3 @@ Here are some of the latest GitHub events:
 9. 🔀 Pushed commits to [leonseferi/campus-booking-system-backend](https://github.com/leonseferi/campus-booking-system-backend) — 2026-02-19T22:32:59Z
 10. 🔀 Pushed commits to [leonseferi/campus-booking-system-backend](https://github.com/leonseferi/campus-booking-system-backend) — 2026-02-19T22:32:31Z
 
-(Shows recent pushes and repo activity — great for demonstrating consistent progress.)
-
-## Latest Blog Posts
-
-## Latest Blog Posts
-
-I don't have a public blog linked on my GitHub profile at the moment. 
-
-If you publish articles or blog posts, link them here (RSS, Medium, Dev.to, or personal website). For now, my most up-to-date project notes and code live in GitHub repositories.
-
-LinkedIn posts: https://www.linkedin.com/in/leonseferi1/
-
-## Connect with Me
-
-## Connect with Me
-
-- 💻 GitHub: [leonseferi](https://github.com/leonseferi) ![GitHub](https://img.shields.io/badge/GitHub-leonseferi-181717?logo=github)
-- 🔗 LinkedIn: [Leon Seferi](https://www.linkedin.com/in/leonseferi1/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Leon%20Seferi-0A66C2?logo=linkedin)
-
-I don't have a public Twitter listed.
-
-Feel free to open issues or pull requests on any repo, or connect on LinkedIn to discuss collaboration, internships, or entry-level roles. 🤝
-
-## Currently Working On
-
-## Currently Working On / Learning
-
-- Building and refining the **vehicle-experimental-simulator** (Python) — simulation features and performance improvements. 🏎️
-- Developing backend APIs and services for **campus-booking-system-backend** — authentication, scheduling, and reliability improvements. 🔧
-- Learning: API design (FastAPI/Flask), containerization with Docker, testing, and CI/CD practices.
-
-If you'd like to collaborate or provide feedback, open an issue or a PR — I appreciate constructive guidance and code reviews. 🙏
